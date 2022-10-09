@@ -1,0 +1,31 @@
+body
+{
+	text-align: center;
+	background-image: url("GlItErRrRrRrRrRr.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+span
+{
+	font-size: 12px;
+	color: red;
+}
+
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+h3
+{
+    font-family: 'Cookie', cursive;
+	font-size: 70px;
+}
+
+#status
+{
+	font-family: 'Courgette', cursive;
+	font-size: 20px;
+}
